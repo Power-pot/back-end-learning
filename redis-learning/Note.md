@@ -1,3 +1,4 @@
+test
 # Redis
 
 ## Redis 10大类型
